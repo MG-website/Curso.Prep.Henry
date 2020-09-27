@@ -1,0 +1,33 @@
+body{
+    background-image: url('https://png.pngtree.com/thumb_back/fw800/back_our/20190619/ourmid/pngtree-simple-style-western-restaurant-menu-poster-background-image_136952.jpg');
+    background-position-y: 150px;
+}
+li{
+    text-decoration: none;
+    list-style: none;
+}
+h1{
+    background-color: sienna;
+}
+h1,h2,h3,h4{
+    text-align: center;
+}
+img{
+    width: 400px;
+  
+}
+#thirdDiv{
+    width: 500px;
+    height: 600px;
+    background-color: rgba(47, 79, 79, 0.233);
+    border: 2px solid #000;
+
+}
+div{
+    margin: auto;
+}
+#spanId{
+    font-size: 18px;
+    margin: 50px;
+    padding: 50px;
+}
