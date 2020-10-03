@@ -1,0 +1,10 @@
+Variable:
+Es un espacio en memoria donde podemos almacenar datos.
+Declarar una variable es abrir un nuevo espacio en memoria para almacenar un dato.
+
+Strings:
+String es un tipo de dato como  'Cadena de texto', nos permite concatenar valores string como si estuvieramos escribiendo.
+
+Funciones:
+Es una manera de realizar acciones 'funciones', que puede recibir un dato por argumento y ejecutar la tarea para la que fue creada.
+return es el valor que devuelve una vez finalizada la funcion.
